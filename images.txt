@@ -1,2 +1,1 @@
 vllm/vllm-openai:0.11.2
-hello-world:latest
